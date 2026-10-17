@@ -1,0 +1,7 @@
+{
+  "name": "MedShift",
+  "description": "Healthcare workforce staffing marketplace prototype connecting UK hospitals with sample doctors, nurses, and healthcare professionals for acute shift coverage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
